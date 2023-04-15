@@ -7,6 +7,17 @@ MERN Full-Stack Web-application.<br><br>
 This Is How Your mongoDB Look Like↓
 
 ![mongoDB](https://github.com/MemeBelarusGuy/Chat/blob/master/screenshots/mongoDB.png)
+<br><br>
+<b>How To Run Project:
+<br>1../config/keys.js - SET UP YOUR MONGODB URL
+<br>2.npm install
+<br>3.npm audit fix --force (Due To Unsupported Libraries Files)
+<br>4.cd ./client
+<br>5.npm install
+<br>6.npm audit fix --force (Due To Unsupported Libraries Files)
+<br>7.npm start (server start)
+<br>8.cd ./client npm start (client start)</b><br><br>
+
 
 Registration↓
 
